@@ -1,0 +1,12 @@
+Grupo de Ejercicios de programacion en C++
+Bloques:
+1. Sintaxis Basica C++
+2. Expresiones
+3. Estructuras Condicionales
+4. Estructuras Repetitivas
+5. Arreglos o Vectores
+6. Matrices
+7. Cadenas de Caracteres
+8. Metodos de Ordenamiento 
+9. 
+10. Funciones
