@@ -1,0 +1,7 @@
+Repositorio para hacer ejercicios de programacion 
+
+##Instrucciones##
+
+1- Crear una carpeta dentro del Repositorio con su nombre
+2- Guardar los ejercicios resueltos por usted y ponerle nombre
+3- Dentro del codigo especificar dudas sobre el problema y crear un txt con los ejercicios en que tenga dudas
